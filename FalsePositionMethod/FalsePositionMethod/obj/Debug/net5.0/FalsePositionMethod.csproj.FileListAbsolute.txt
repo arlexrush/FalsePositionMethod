@@ -1,0 +1,16 @@
+C:\Users\Usuario\OneDrive\CLOUDAHEAD\FalsePositionMethod\FalsePositionMethod\FalsePositionMethod\bin\Debug\net5.0\FalsePositionMethod.exe
+C:\Users\Usuario\OneDrive\CLOUDAHEAD\FalsePositionMethod\FalsePositionMethod\FalsePositionMethod\bin\Debug\net5.0\FalsePositionMethod.deps.json
+C:\Users\Usuario\OneDrive\CLOUDAHEAD\FalsePositionMethod\FalsePositionMethod\FalsePositionMethod\bin\Debug\net5.0\FalsePositionMethod.runtimeconfig.json
+C:\Users\Usuario\OneDrive\CLOUDAHEAD\FalsePositionMethod\FalsePositionMethod\FalsePositionMethod\bin\Debug\net5.0\FalsePositionMethod.runtimeconfig.dev.json
+C:\Users\Usuario\OneDrive\CLOUDAHEAD\FalsePositionMethod\FalsePositionMethod\FalsePositionMethod\bin\Debug\net5.0\FalsePositionMethod.dll
+C:\Users\Usuario\OneDrive\CLOUDAHEAD\FalsePositionMethod\FalsePositionMethod\FalsePositionMethod\bin\Debug\net5.0\ref\FalsePositionMethod.dll
+C:\Users\Usuario\OneDrive\CLOUDAHEAD\FalsePositionMethod\FalsePositionMethod\FalsePositionMethod\bin\Debug\net5.0\FalsePositionMethod.pdb
+C:\Users\Usuario\OneDrive\CLOUDAHEAD\FalsePositionMethod\FalsePositionMethod\FalsePositionMethod\obj\Debug\net5.0\FalsePositionMethod.csproj.AssemblyReference.cache
+C:\Users\Usuario\OneDrive\CLOUDAHEAD\FalsePositionMethod\FalsePositionMethod\FalsePositionMethod\obj\Debug\net5.0\FalsePositionMethod.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Usuario\OneDrive\CLOUDAHEAD\FalsePositionMethod\FalsePositionMethod\FalsePositionMethod\obj\Debug\net5.0\FalsePositionMethod.AssemblyInfoInputs.cache
+C:\Users\Usuario\OneDrive\CLOUDAHEAD\FalsePositionMethod\FalsePositionMethod\FalsePositionMethod\obj\Debug\net5.0\FalsePositionMethod.AssemblyInfo.cs
+C:\Users\Usuario\OneDrive\CLOUDAHEAD\FalsePositionMethod\FalsePositionMethod\FalsePositionMethod\obj\Debug\net5.0\FalsePositionMethod.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\OneDrive\CLOUDAHEAD\FalsePositionMethod\FalsePositionMethod\FalsePositionMethod\obj\Debug\net5.0\FalsePositionMethod.dll
+C:\Users\Usuario\OneDrive\CLOUDAHEAD\FalsePositionMethod\FalsePositionMethod\FalsePositionMethod\obj\Debug\net5.0\ref\FalsePositionMethod.dll
+C:\Users\Usuario\OneDrive\CLOUDAHEAD\FalsePositionMethod\FalsePositionMethod\FalsePositionMethod\obj\Debug\net5.0\FalsePositionMethod.pdb
+C:\Users\Usuario\OneDrive\CLOUDAHEAD\FalsePositionMethod\FalsePositionMethod\FalsePositionMethod\obj\Debug\net5.0\FalsePositionMethod.genruntimeconfig.cache
