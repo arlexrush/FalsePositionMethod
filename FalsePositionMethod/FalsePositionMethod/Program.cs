@@ -115,7 +115,7 @@ namespace FalsePositionMethod
             if (tol < 0) tol = tol * (-1);
             Console.WriteLine();            
             application.FalsePosition(a, b, selection, iterMax, tol);
-
+            Console.ReadLine();
         }
 
         public class FalsePositionMethod
